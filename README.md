@@ -12,7 +12,7 @@
 
 
 
-### Design Systems, CSS & Components
+### 📐📏 Design Systems, CSS & Components
 - [ ] [UI development as a first-class citizen](http://mrmrs.github.io/writing/2016/04/21/developing-ui/)
 - [ ] [Mathematical Web Typography] (http://jxnblk.com/writing/posts/mathematical-web-typography)
 - [x] [Functional CSS Protips](https://github.com/chibicode/react-functional-css-protips)
@@ -36,7 +36,7 @@
 - [x] [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101)
 
 
-### 💃🏽 Animations
+### 💃🏽 Animations
 - [x] [Math for Motion](https://soulwire.co.uk/math-for-motion/)
 - [x] [An Animated Intro to RxJS
 ](https://css-tricks.com/animated-intro-rxjs/)
