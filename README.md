@@ -5,7 +5,6 @@
 ### 📚 Theory
 - [ ] [A Gentle Introduction To Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
 - [ ] [Programming Design Systems](https://programmingdesignsystems.com/introduction)
-- [ ] [lenses](https://github.com/calmm-js/partial.lenses)
 - [x] [Color Schemes](https://programmingdesignsystems.com/color/color-schemes)
 - [x] [Should engineering managers write code? Wrong question.](https://building.coursera.org/blog/2016/12/01/should-engineering-managers-write-code-wrong-question)
 - [x] [The Web's Grain](https://frankchimero.com/writing/the-webs-grain/)
@@ -14,14 +13,15 @@
 
 
 ### 🤓 Functional Programming
-- [x] [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
-- [x] [The Marvellously Mysterious Javascript Maybe Monad](https://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
-- [ ] [JavaScript Monads Made Simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
-- [ ] [Functional programming: Monads made clear - in javascript](http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html)
-- [ ] [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch8.html)
+- [ ] [lenses](https://github.com/calmm-js/partial.lenses)
 - [ ] [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - [ ] [Fantasy Land type for React Components](https://github.com/xaviervia/react-dream#license)
 - [ ] [Fantasy Land Styling](https://github.com/jongold/further#resolve)
+- [ ] [JavaScript Monads Made Simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
+- [ ] [Functional programming: Monads made clear - in javascript](http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html)
+- [ ] [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch8.html)
+- [x] [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
+- [x] [The Marvellously Mysterious Javascript Maybe Monad](https://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
 
 
 
