@@ -5,6 +5,7 @@
 ### 📚 Theory
 - [ ] [A Gentle Introduction To Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
 - [ ] [Programming Design Systems](https://programmingdesignsystems.com/introduction)
+- [ ] [lenses](https://github.com/calmm-js/partial.lenses)
 - [x] [Color Schemes](https://programmingdesignsystems.com/color/color-schemes)
 - [x] [Should engineering managers write code? Wrong question.](https://building.coursera.org/blog/2016/12/01/should-engineering-managers-write-code-wrong-question)
 - [x] [The Web's Grain](https://frankchimero.com/writing/the-webs-grain/)
@@ -12,7 +13,20 @@
 
 
 
+### 🤓 Functional Programming
+- [x] [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
+- [x] [The Marvellously Mysterious Javascript Maybe Monad](https://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/)
+- [ ] [JavaScript Monads Made Simple](https://medium.com/javascript-scene/javascript-monads-made-simple-7856be57bfe8)
+- [ ] [Functional programming: Monads made clear - in javascript](http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html)
+- [ ] [Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide/content/ch8.html)
+- [ ] [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+- [ ] [Fantasy Land type for React Components](https://github.com/xaviervia/react-dream#license)
+- [ ] [Fantasy Land Styling](https://github.com/jongold/further#resolve)
+
+
+
 ### 📐📏 Design Systems, CSS & Components
+- [ ] [Introducing Design Systems Into Chaos](https://www.rethinkhq.com/videos/introducing-design-systems-into-chaos-diana-mounter-github)
 - [ ] [UI development as a first-class citizen](http://mrmrs.github.io/writing/2016/04/21/developing-ui/)
 - [ ] [Mathematical Web Typography](http://jxnblk.com/writing/posts/mathematical-web-typography)
 - [x] [Functional CSS Protips](https://github.com/chibicode/react-functional-css-protips)
@@ -50,6 +64,7 @@ FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 
 
 ### ⚡ Performance
+- [ ] [Size Limit: Make the Web lighter](https://evilmartians.com/chronicles/size-limit-make-the-web-lighter)
 - [x] [Netflix JavaScript Talks - React.js for TV UIs](https://www.youtube.com/watch?v=5sETJs2_jwo&feature=youtu.be&t=15m55s)
 - [x] [Andrew Clark - Recomposing your React application (perf section)](https://www.youtube.com/watch?v=zD_judE-bXk&feature=youtu.be&t=19m10s)
 - [x] [DevTool Layers Panel](https://www.youtube.com/watch?v=6je49J67TQk&list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr&index=1)
