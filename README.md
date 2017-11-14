@@ -14,11 +14,11 @@
 
 ### 📐📏 Design Systems, CSS & Components
 - [ ] [UI development as a first-class citizen](http://mrmrs.github.io/writing/2016/04/21/developing-ui/)
-- [ ] [Mathematical Web Typography] (http://jxnblk.com/writing/posts/mathematical-web-typography)
+- [ ] [Mathematical Web Typography](http://jxnblk.com/writing/posts/mathematical-web-typography)
 - [x] [Functional CSS Protips](https://github.com/chibicode/react-functional-css-protips)
 - [x] [Functional Programming, CSS, and your sanity](http://www.jon.gold/2015/07/functional-css)
 - [x] [Andrew Clark - Recomposing your React application](https://www.youtube.com/watch?v=zD_judE-bXk)
-- [x] [Patterns for Style Composition in React](http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react) by Brent Jackson
+- [x] [Patterns for Style Composition in React](http://jxnblk.com/writing/posts/patterns-for-style-composition-in-react)
 - [x] [Flattening Deep Hierarchies of Components](http://varun.ca/flattening-deep-hierarchies-of-components/)
 - [x] [Composition - Nik Graf at ReactEurope 2017](https://www.youtube.com/watch?v=qJgff2spvzM)
 - [x] [Components](http://jxnblk.com/writing/posts/components/)
