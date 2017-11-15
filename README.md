@@ -51,6 +51,7 @@
 
 
 ### 💃🏽 Animations
+- [ ] [How Generative Music Works](https://teropa.info/loop/#/systemdefinition)
 - [x] [Math for Motion](https://soulwire.co.uk/math-for-motion/)
 - [x] [An Animated Intro to RxJS
 ](https://css-tricks.com/animated-intro-rxjs/)
