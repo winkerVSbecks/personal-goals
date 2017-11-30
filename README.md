@@ -13,6 +13,8 @@
 
 
 ### 🤓 Functional Programming
+- [ ] [Kleisli Compositions in JavaScript](https://medium.com/@luijar/kliesli-compositions-in-javascript-7e1a7218f0c4)
+- [ ] [kleisli](https://glebbahmutov.com/blog/kleisli)
 - [ ] [lenses](https://github.com/calmm-js/partial.lenses)
 - [ ] [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - [ ] [Fantasy Land type for React Components](https://github.com/xaviervia/react-dream#license)
