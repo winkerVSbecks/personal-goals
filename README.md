@@ -14,6 +14,7 @@
 
 
 ### 🤓 Functional Programming
+- [ ] [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box)
 - [ ] [Kleisli Compositions in JavaScript](https://medium.com/@luijar/kliesli-compositions-in-javascript-7e1a7218f0c4)
 - [ ] [kleisli](https://glebbahmutov.com/blog/kleisli)
 - [ ] [lenses](https://github.com/calmm-js/partial.lenses)
