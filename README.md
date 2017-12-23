@@ -14,6 +14,7 @@
 
 
 ### 🤓 Functional Programming
+- [x] [Functional Programming In JavaScript — With Practical Examples](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
 - [ ] [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box)
 - [ ] [Kleisli Compositions in JavaScript](https://medium.com/@luijar/kliesli-compositions-in-javascript-7e1a7218f0c4)
 - [ ] [kleisli](https://glebbahmutov.com/blog/kleisli)
