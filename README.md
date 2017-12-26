@@ -20,7 +20,7 @@
 - [ ] [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box)
 - [ ] [Kleisli Compositions in JavaScript](https://medium.com/@luijar/kliesli-compositions-in-javascript-7e1a7218f0c4)
 - [ ] [kleisli](https://glebbahmutov.com/blog/kleisli)
-- [ ] [lenses](https://github.com/calmm-js/partial.lenses)
+- [x] [lenses](https://github.com/calmm-js/partial.lenses)
 - [x] [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
 - [x] [Fantasy Land type for React Components](https://github.com/xaviervia/react-dream)
 - [x] [Fantasy Land Styling](https://github.com/jongold/further)
