@@ -3,6 +3,7 @@
 
 
 ### 📚 Theory
+- [ ] [How Programmers and Testers (and Others) Should Collaborate on User Stories](https://www.mountaingoatsoftware.com/blog/how-programmers-and-testers-and-others-should-collaborate-on-user-stories)
 - [ ] [Bret Victor - Stop Drawing Dead Fish](https://www.youtube.com/watch?v=KUDh6sCtm8s)
 - [x] [Dan Abramov - The Melting Pot of JavaScript](https://www.youtube.com/watch?v=G39lKaONAlA)
 - [ ] [A Gentle Introduction To Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
