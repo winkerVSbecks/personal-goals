@@ -16,6 +16,7 @@
 
 
 ### 🤓 Functional Programming
+- [x] [Maybe Better Reducers](http://vvgomes.com/better-reducers/)
 - [x] [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - [x] [Functional Programming In JavaScript — With Practical Examples](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
 - [ ] [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box)
