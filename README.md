@@ -3,6 +3,7 @@
 
 
 ### 📚 Theory
+- [ ] [Robust Client-Side JavaScript](https://molily.de/robust-javascript)
 - [ ] [How Programmers and Testers (and Others) Should Collaborate on User Stories](https://www.mountaingoatsoftware.com/blog/how-programmers-and-testers-and-others-should-collaborate-on-user-stories)
 - [ ] [Bret Victor - Stop Drawing Dead Fish](https://www.youtube.com/watch?v=KUDh6sCtm8s)
 - [x] [Dan Abramov - The Melting Pot of JavaScript](https://www.youtube.com/watch?v=G39lKaONAlA)
@@ -19,7 +20,7 @@
 - [x] [Maybe Better Reducers](http://vvgomes.com/better-reducers/)
 - [x] [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - [x] [Functional Programming In JavaScript — With Practical Examples](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
-- [ ] [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box)
+- [x] [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/lessons/javascript-linear-data-flow-with-container-style-types-box)
 - [x] [Kleisli Compositions in JavaScript](https://medium.com/@luijar/kliesli-compositions-in-javascript-7e1a7218f0c4)
 - [x] [kleisli](https://glebbahmutov.com/blog/kleisli)
 - [x] [lenses](https://github.com/calmm-js/partial.lenses)
