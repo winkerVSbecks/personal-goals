@@ -75,6 +75,7 @@ FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 
 
 ### ⚡ Performance
+- [x] [JavaScript Start-up Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/)
 - [ ] [Size Limit: Make the Web lighter](https://evilmartians.com/chronicles/size-limit-make-the-web-lighter)
 - [x] [Netflix JavaScript Talks - React.js for TV UIs](https://www.youtube.com/watch?v=5sETJs2_jwo&feature=youtu.be&t=15m55s)
 - [x] [Andrew Clark - Recomposing your React application (perf section)](https://www.youtube.com/watch?v=zD_judE-bXk&feature=youtu.be&t=19m10s)
