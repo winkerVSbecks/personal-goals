@@ -3,6 +3,7 @@
 
 
 ### 📚 Theory
+- [ ] [Balancing Product and Technology](https://dev.actualbudget.com/balancing-product-technology/)
 - [ ] [Robust Client-Side JavaScript](https://molily.de/robust-javascript)
 - [ ] [How Programmers and Testers (and Others) Should Collaborate on User Stories](https://www.mountaingoatsoftware.com/blog/how-programmers-and-testers-and-others-should-collaborate-on-user-stories)
 - [ ] [Bret Victor - Stop Drawing Dead Fish](https://www.youtube.com/watch?v=KUDh6sCtm8s)
