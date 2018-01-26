@@ -3,10 +3,7 @@
 
 
 ### 📚 Theory
-- [ ] [Share your Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/0)
-- [ ] [Balancing Product and Technology](https://dev.actualbudget.com/balancing-product-technology/)
 - [ ] [Robust Client-Side JavaScript](https://molily.de/robust-javascript)
-- [ ] [How Programmers and Testers (and Others) Should Collaborate on User Stories](https://www.mountaingoatsoftware.com/blog/how-programmers-and-testers-and-others-should-collaborate-on-user-stories)
 - [ ] [Bret Victor - Stop Drawing Dead Fish](https://www.youtube.com/watch?v=KUDh6sCtm8s)
 - [x] [Dan Abramov - The Melting Pot of JavaScript](https://www.youtube.com/watch?v=G39lKaONAlA)
 - [ ] [A Gentle Introduction To Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
@@ -15,6 +12,13 @@
 - [x] [Should engineering managers write code? Wrong question.](https://building.coursera.org/blog/2016/12/01/should-engineering-managers-write-code-wrong-question)
 - [x] [The Web's Grain](https://frankchimero.com/writing/the-webs-grain/)
 - [x] [Material Honesty on the Web](https://alistapart.com/article/material-honesty-on-the-web)
+
+
+
+### 👨🏽‍💻 Engineering Management
+- [ ] [Share your Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/0)
+- [ ] [Balancing Product and Technology](https://dev.actualbudget.com/balancing-product-technology/)
+- [ ] [How Programmers and Testers (and Others) Should Collaborate on User Stories](https://www.mountaingoatsoftware.com/blog/how-programmers-and-testers-and-others-should-collaborate-on-user-stories)
 
 
 
