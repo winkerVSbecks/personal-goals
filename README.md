@@ -68,6 +68,7 @@
 
 
 ### 💃🏽 Animations
+- [ ] [Tim Holman: Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk)
 - [ ] [How Generative Music Works](https://teropa.info/loop/#/systemdefinition)
 - [x] [Math for Motion](https://soulwire.co.uk/math-for-motion/)
 - [x] [An Animated Intro to RxJS
