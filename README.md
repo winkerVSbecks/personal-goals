@@ -16,6 +16,7 @@
 
 
 ### 👨🏽‍💻 Engineering Management
+- [ ] [Awesome Code Review](https://github.com/joho/awesome-code-review)
 - [ ] [How I review code](https://engineering.tumblr.com/post/170040992289/how-i-review-code)
 - [ ] [Share your Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/0)
 - [ ] [Balancing Product and Technology](https://dev.actualbudget.com/balancing-product-technology/)
