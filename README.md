@@ -71,8 +71,6 @@
 
 ### 💃🏽 Animations
 - [ ] [Tim Holman: Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk)
-- [ ] [How Generative Music Works](https://teropa.info/loop/#/systemdefinition)
-- [x] [Math for Motion](https://soulwire.co.uk/math-for-motion/)
 - [x] [An Animated Intro to RxJS
 ](https://css-tricks.com/animated-intro-rxjs/)
 - [x] [Create animations with the FLIP technique](http://www.creativebloq.com/features/create-animations-with-the-flip-technique)
@@ -80,7 +78,7 @@
 FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 - [x] [Jank Free](http://jankfree.org)
 - [x] [Optimising for 60fps everywhere](https://engineering.gosquared.com/optimising-60fps-everywhere-in-javascript)
-- [x]  [Leaner, Meaner, Faster Animations with requestAnimationFrame](https://www.html5rocks.com/en/tutorials/speed/animations)
+- [x] [Leaner, Meaner, Faster Animations with requestAnimationFrame](https://www.html5rocks.com/en/tutorials/speed/animations)
 
 
 
@@ -91,3 +89,23 @@ FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 - [x] [Andrew Clark - Recomposing your React application (perf section)](https://www.youtube.com/watch?v=zD_judE-bXk&feature=youtu.be&t=19m10s)
 - [x] [DevTool Layers Panel](https://www.youtube.com/watch?v=6je49J67TQk&list=PLNYkxOF6rcIBz9ACEQRmO9Lw8PW7vn0lr&index=1)
 - [x] [Improving Web App Performance With the Chrome DevTools Timeline and Profiles](https://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/)
+
+
+### Math
+- [x] [Better Explained](https://betterexplained.com)
+- [ ] [How Generative Music Works](https://teropa.info/loop/#/systemdefinition)
+- [x] [Math for Motion](https://soulwire.co.uk/math-for-motion/)
+- [x] [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/index.html)
+- [x] [Easing Equations](http://gizma.com/easing/#quad2)
+- [x] [Find five positive integers whose reciprocals sum to 1](https://math.stackexchange.com/questions/290435/find-five-positive-integers-whose-reciprocals-sum-to-1)
+- [x] [Almost Equilaterial Heronian Triangles](https://codegolf.stackexchange.com/questions/26099/almost-equilaterial-heronian-triangles)
+- [x] [Why can you turn clothing right-side-out?](https://math.stackexchange.com/questions/2755/why-can-you-turn-clothing-right-side-out)
+- [x] [square sums](http://visualizingmath.tumblr.com/post/101381791426/twocubes-anewkindofmagic-twocubes)
+- [x] [Graham's number expressed using xkcd's “Knuth Paper-Stack Notation”](https://math.stackexchange.com/questions/565714/grahams-number-expressed-using-xkcds-knuth-paper-stack-notation)
+- [ ] [No BS guide to Math and Physics](https://nobsgui.de/to/MATHandPHYSICS/)
+- [x] [Singular Sensations](https://opinionator.blogs.nytimes.com/2012/09/10/singular-sensations/)
+- [x] [Simplex](https://news.ycombinator.com/item?id=9757946)
+- [x] [Benford's Law](https://en.wikipedia.org/wiki/Benford's_law)
+
+
+
