@@ -91,7 +91,7 @@ FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 - [x] [Improving Web App Performance With the Chrome DevTools Timeline and Profiles](https://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/)
 
 
-### Math
+### 👨🏽‍🏫 Math
 - [x] [Better Explained](https://betterexplained.com)
 - [ ] [How Generative Music Works](https://teropa.info/loop/#/systemdefinition)
 - [x] [Math for Motion](https://soulwire.co.uk/math-for-motion/)
