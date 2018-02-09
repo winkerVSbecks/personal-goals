@@ -93,6 +93,7 @@ FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 
 
 ### 👨🏽‍🏫 Math
+- [x] [Explorables](http://explorabl.es)
 - [x] [Better Explained](https://betterexplained.com)
 - [ ] [How Generative Music Works](https://teropa.info/loop/#/systemdefinition)
 - [x] [Math for Motion](https://soulwire.co.uk/math-for-motion/)
