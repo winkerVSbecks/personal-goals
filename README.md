@@ -71,6 +71,7 @@
 - [x] [What Every Frontend Developer Should Know About Webpage Rendering](http://frontendbabel.info/articles/webpage-rendering-101)
 
 
+
 ### 💃🏽 Animations
 - [ ] [Tim Holman: Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk)
 - [x] [An Animated Intro to RxJS
@@ -94,6 +95,7 @@ FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 - [x] [Improving Web App Performance With the Chrome DevTools Timeline and Profiles](https://addyosmani.com/blog/performance-optimisation-with-timeline-profiles/)
 
 
+
 ### 👨🏽‍🏫 Math
 - [x] [Explorables](http://explorabl.es)
 - [x] [Better Explained](https://betterexplained.com)
@@ -110,6 +112,3 @@ FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 - [x] [Singular Sensations](https://opinionator.blogs.nytimes.com/2012/09/10/singular-sensations/)
 - [x] [Simplex](https://news.ycombinator.com/item?id=9757946)
 - [x] [Benford's Law](https://en.wikipedia.org/wiki/Benford's_law)
-
-
-
