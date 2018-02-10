@@ -16,6 +16,8 @@
 
 
 ### 👨🏽‍💻 Engineering Management
+- [ ] [What happens when the pager goes off?](https://increment.com/on-call/when-the-pager-goes-off)
+- [x] [Three Critical Development Metrics for Engineering Velocity](https://circleci.com/resources/velocity-report/)
 - [ ] [Awesome Code Review](https://github.com/joho/awesome-code-review)
 - [ ] [How I review code](https://engineering.tumblr.com/post/170040992289/how-i-review-code)
 - [ ] [Share your Manager README](https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/0)
