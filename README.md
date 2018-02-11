@@ -97,6 +97,7 @@ FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 
 
 ### 👨🏽‍🏫 Math
+- [x] [Fourier Series Visualization](http://www.ajimatics.com/entry/2016/02/07/020932)
 - [x] [Explorables](http://explorabl.es)
 - [x] [Better Explained](https://betterexplained.com)
 - [ ] [How Generative Music Works](https://teropa.info/loop/#/systemdefinition)
