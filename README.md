@@ -98,6 +98,7 @@ FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 
 
 ### 👨🏽‍🏫 Math
+- [x] [Flow Fields](https://www.bit-101.com/blog/2017/10/flow-fields-part-i)
 - [x] [Fourier Series Visualization](http://www.ajimatics.com/entry/2016/02/07/020932)
 - [x] [Explorables](http://explorabl.es)
 - [x] [Better Explained](https://betterexplained.com)
