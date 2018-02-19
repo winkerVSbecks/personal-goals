@@ -16,6 +16,7 @@
 
 
 ### 👨🏽‍💻 Engineering Management
+- [x] [Make the Other Mistake](https://medium.com/@mrabkin/make-the-other-mistake-7f449077839b)
 - [ ] [What happens when the pager goes off?](https://increment.com/on-call/when-the-pager-goes-off)
 - [x] [Three Critical Development Metrics for Engineering Velocity](https://circleci.com/resources/velocity-report/)
 - [ ] [Awesome Code Review](https://github.com/joho/awesome-code-review)
