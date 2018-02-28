@@ -3,6 +3,7 @@
 
 
 ### 📚 Theory
+- [ ] [Boundaries A talk by Gary Bernhardt from SCNA 2012](https://www.destroyallsoftware.com/talks/boundaries)
 - [ ] [Robust Client-Side JavaScript](https://molily.de/robust-javascript)
 - [ ] [Bret Victor - Stop Drawing Dead Fish](https://www.youtube.com/watch?v=KUDh6sCtm8s)
 - [x] [Dan Abramov - The Melting Pot of JavaScript](https://www.youtube.com/watch?v=G39lKaONAlA)
@@ -88,6 +89,7 @@ FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 
 
 ### ⚡ Performance
+- [ ] [Fast By Default: Modern Loading Best Practices](https://www.youtube.com/watch?v=_srJ7eHS3IM)
 - [ ] [Webpack Performance Guide](https://developers.google.com/web/fundamentals/performance/webpack/)
 - [x] [JavaScript Start-up Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/)
 - [ ] [Size Limit: Make the Web lighter](https://evilmartians.com/chronicles/size-limit-make-the-web-lighter)
