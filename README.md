@@ -76,6 +76,7 @@
 
 
 ### 💃🏽 Animations
+- [x] [Good to great UI animation tips](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5)
 - [ ] [Tim Holman: Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk)
 - [x] [An Animated Intro to RxJS
 ](https://css-tricks.com/animated-intro-rxjs/)
