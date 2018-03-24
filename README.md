@@ -92,6 +92,7 @@ FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 
 
 ### ⚡ Performance
+- [ ] [Designing for Mobile Performance (Brain Food)](https://www.awwwards.com/brainfood-mobile-performance-vol3.pdf)
 - [ ] [Fast By Default: Modern Loading Best Practices](https://www.youtube.com/watch?v=_srJ7eHS3IM)
 - [ ] [Webpack Performance Guide](https://developers.google.com/web/fundamentals/performance/webpack/)
 - [x] [JavaScript Start-up Optimization](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/javascript-startup-optimization/)
