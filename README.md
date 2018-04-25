@@ -68,6 +68,7 @@
 
 
 ### 🖥️ Browser
+- [x] [How Https Works](https://howhttps.works)
 - [ ] [Server Farm to Table](http://jenna.is/slides/server-farm-to-table-annotated.pdf)
 - [x] [Scrolling on the web: A primer](https://blogs.windows.com/msedgedev/2017/03/08/scrolling-on-the-web/)
 - [x] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) & [loupe](http://latentflip.com/loupe)
