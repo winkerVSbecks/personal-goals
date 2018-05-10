@@ -51,11 +51,12 @@
 
 
 ### 📐📏 Design Systems, CSS & Components
+- [x] [We Need To Talk About Our Frontend Workflow — Siddharth Kshetrapal](https://www.youtube.com/watch?v=bLgZwFRYTJ4)
 - [x] [Subatomic Design Systems](https://daneden.me/2018/01/05/subatomic-design-systems)
-- [ ] [Making SVG icon libraries for React apps](http://nicolasgallagher.com/making-svg-icon-libraries-for-react-apps/)
+- [x] [Making SVG icon libraries for React apps](http://nicolasgallagher.com/making-svg-icon-libraries-for-react-apps/)
 - [ ] [Introducing Design Systems Into Chaos](https://www.rethinkhq.com/videos/introducing-design-systems-into-chaos-diana-mounter-github)
-- [ ] [UI development as a first-class citizen](http://mrmrs.github.io/writing/2016/04/21/developing-ui/)
-- [ ] [Mathematical Web Typography](http://jxnblk.com/writing/posts/mathematical-web-typography)
+- [x] [UI development as a first-class citizen](http://mrmrs.github.io/writing/2016/04/21/developing-ui/)
+- [x] [Mathematical Web Typography](http://jxnblk.com/writing/posts/mathematical-web-typography)
 - [x] [Functional CSS Protips](https://github.com/chibicode/react-functional-css-protips)
 - [x] [Functional Programming, CSS, and your sanity](http://www.jon.gold/2015/07/functional-css)
 - [x] [Andrew Clark - Recomposing your React application](https://www.youtube.com/watch?v=zD_judE-bXk)
