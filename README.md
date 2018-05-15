@@ -53,6 +53,7 @@
 
 
 ### 📐📏 Design Systems, CSS & Components
+- [x] [Chris Biscardi's Twitter thread](https://twitter.com/chrisbiscardi/status/976363118656831489)
 - [x] [We Need To Talk About Our Frontend Workflow — Siddharth Kshetrapal](https://www.youtube.com/watch?v=bLgZwFRYTJ4)
 - [x] [Subatomic Design Systems](https://daneden.me/2018/01/05/subatomic-design-systems)
 - [x] [Making SVG icon libraries for React apps](http://nicolasgallagher.com/making-svg-icon-libraries-for-react-apps/)
