@@ -3,6 +3,7 @@
 
 
 ### 📚 Theory
+- [ ] [Minipack — module bundler walkthrough](https://github.com/ronami/minipack/blob/master/src/minipack.js)
 - [ ] [Boundaries A talk by Gary Bernhardt from SCNA 2012](https://www.destroyallsoftware.com/talks/boundaries)
 - [ ] [Robust Client-Side JavaScript](https://molily.de/robust-javascript)
 - [ ] [Bret Victor - Stop Drawing Dead Fish](https://www.youtube.com/watch?v=KUDh6sCtm8s)
