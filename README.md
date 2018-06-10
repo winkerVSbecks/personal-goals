@@ -35,7 +35,7 @@
 ### 🤓 Functional Programming
 - [x] [μ — blog of Michael Hurley](http://buzzdecafe.github.io/)
 - [x] [evilsoft/crocks](https://github.com/evilsoft/crocks)
-- [ ] [Safer JavaScript with the Maybe type](https://egghead.io/lessons/javascript-course-introduction-safer-javascript-with-the-maybe-type)
+- [x] [Safer JavaScript with the Maybe type](https://egghead.io/lessons/javascript-course-introduction-safer-javascript-with-the-maybe-type)
 - [x] [Maybe Better Reducers](http://vvgomes.com/better-reducers/)
 - [x] [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 - [x] [Functional Programming In JavaScript — With Practical Examples](https://medium.freecodecamp.org/functional-programming-in-js-with-practical-examples-part-1-87c2b0dbc276)
@@ -89,11 +89,9 @@
 ### 💃🏽 Animations
 - [x] [Good to great UI animation tips](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5)
 - [ ] [Tim Holman: Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk)
-- [x] [An Animated Intro to RxJS
-](https://css-tricks.com/animated-intro-rxjs/)
+- [x] [An Animated Intro to RxJS](https://css-tricks.com/animated-intro-rxjs/)
 - [x] [Create animations with the FLIP technique](http://www.creativebloq.com/features/create-animations-with-the-flip-technique)
-- [x] [
-FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
+- [x] [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 - [x] [Jank Free](http://jankfree.org)
 - [x] [Optimising for 60fps everywhere](https://engineering.gosquared.com/optimising-60fps-everywhere-in-javascript)
 - [x] [Leaner, Meaner, Faster Animations with requestAnimationFrame](https://www.html5rocks.com/en/tutorials/speed/animations)
