@@ -18,6 +18,7 @@
 
 
 ### 👨🏽‍💻 Engineering Management
+- [x] [DesignOps at Airbnb](https://airbnb.design/designops-airbnb/)
 - [x] [Make the Right Thing the Easy Thing](https://jlengstorf.github.io/presentations/make-the-right-thing-the-easy-thing)
 - [x] [Rent the Runway Leadership Ladder Spreadsheet](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
 - [x] [Rent the Runway Career Ladder Descriptions](https://docs.google.com/document/d/1SxmQBrDZvj16veuc2OVO0wUX7a7vEKPM-57dNLXhuEk/edit)
