@@ -56,6 +56,7 @@
 
 
 ### 📐📏 Design Systems, CSS & Components
+- [x] [Vanilla Pattern](https://coggle.it/diagram/V0hkiP976OIbGpy8/t/vanilla-pattern)
 - [x] [Component Styling API](http://mrmrs.github.io/writing/2018/06/18/component-styling-api/)
 - [x] [In Defense of Utility-First CSS](https://frontstuff.io/in-defense-of-utility-first-css#it-bloats-the-html)
 - [x] [Chris Biscardi's Twitter thread](https://twitter.com/chrisbiscardi/status/976363118656831489)
