@@ -56,6 +56,7 @@
 
 
 ### 📐📏 Design Systems, CSS & Components
+- [x] [Component-Based Design](https://medium.com/@_alanbsmith/component-based-design-168811e0c4ab)
 - [x] [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
 - [x] [Vanilla Pattern](https://coggle.it/diagram/V0hkiP976OIbGpy8/t/vanilla-pattern)
 - [x] [Component Styling API](http://mrmrs.github.io/writing/2018/06/18/component-styling-api/)
