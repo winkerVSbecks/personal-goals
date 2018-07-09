@@ -56,6 +56,7 @@
 
 
 ### 📐📏 Design Systems, CSS & Components
+- [x] [A Five-Minute Guide to Better Typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
 - [x] [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/)
 - [x] [Component-Based Design](https://medium.com/@_alanbsmith/component-based-design-168811e0c4ab)
 - [x] [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
