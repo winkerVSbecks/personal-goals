@@ -60,6 +60,7 @@
 - [x] [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/)
 - [x] [Component-Based Design](https://medium.com/@_alanbsmith/component-based-design-168811e0c4ab)
 - [x] [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
+- [x] [A Unified Styling Language](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)
 - [x] [Vanilla Pattern](https://coggle.it/diagram/V0hkiP976OIbGpy8/t/vanilla-pattern)
 - [x] [Component Styling API](http://mrmrs.github.io/writing/2018/06/18/component-styling-api/)
 - [x] [In Defense of Utility-First CSS](https://frontstuff.io/in-defense-of-utility-first-css#it-bloats-the-html)
