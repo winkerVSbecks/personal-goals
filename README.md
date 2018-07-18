@@ -69,7 +69,7 @@
 - [x] [We Need To Talk About Our Frontend Workflow — Siddharth Kshetrapal](https://www.youtube.com/watch?v=bLgZwFRYTJ4)
 - [x] [Subatomic Design Systems](https://daneden.me/2018/01/05/subatomic-design-systems)
 - [x] [Making SVG icon libraries for React apps](http://nicolasgallagher.com/making-svg-icon-libraries-for-react-apps/)
-- [ ] [Introducing Design Systems Into Chaos](https://www.rethinkhq.com/videos/introducing-design-systems-into-chaos-diana-mounter-github)
+- [x] [Introducing Design Systems Into Chaos](https://www.rethinkhq.com/videos/introducing-design-systems-into-chaos-diana-mounter-github)
 - [x] [UI development as a first-class citizen](http://mrmrs.github.io/writing/2016/04/21/developing-ui/)
 - [x] [Mathematical Web Typography](http://jxnblk.com/writing/posts/mathematical-web-typography)
 - [x] [Functional CSS Protips](https://github.com/chibicode/react-functional-css-protips)
