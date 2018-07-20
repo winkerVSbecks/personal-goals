@@ -96,6 +96,7 @@
 
 
 ### 💃🏽 Animations
+- [x] [Building a Complex UI Animation in React, Simply](https://css-tricks.com/building-a-complex-ui-animation-in-react-simply/)
 - [x] [Good to great UI animation tips](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5)
 - [ ] [Tim Holman: Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk)
 - [x] [An Animated Intro to RxJS](https://css-tricks.com/animated-intro-rxjs/)
