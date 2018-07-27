@@ -56,6 +56,7 @@
 
 
 ### 📐📏 Design Systems, CSS & Components
+- [x] [Deep dive CSS: font metrics, line-height and vertical-align](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 - [x] [Introducing the Single Element Pattern](https://medium.freecodecamp.org/introducing-the-single-element-pattern-dfbd2c295c5d)
 - [x] [Functional CSS at Scale](http://assets.eli.wtf/talks/functional-css-scotland-2018/#/)
 - [x] [A Five-Minute Guide to Better Typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
