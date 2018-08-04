@@ -88,7 +88,7 @@
 
 ### 🖥️ Browser
 - [x] [How Https Works](https://howhttps.works)
-- [ ] [Server Farm to Table](http://jenna.is/slides/server-farm-to-table-annotated.pdf)
+- [x] [Server Farm to Table](http://jenna.is/slides/server-farm-to-table-annotated.pdf)
 - [x] [Scrolling on the web: A primer](https://blogs.windows.com/msedgedev/2017/03/08/scrolling-on-the-web/)
 - [x] [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) & [loupe](http://latentflip.com/loupe)
 - [x] [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork)
@@ -98,9 +98,10 @@
 
 
 ### 💃🏽 Animations
+- [x] [Tim Holman - Generative Art Speedrun](https://www.youtube.com/watch?v=4Se0_w0ISYk&t=758s)
 - [x] [Building a Complex UI Animation in React, Simply](https://css-tricks.com/building-a-complex-ui-animation-in-react-simply/)
 - [x] [Good to great UI animation tips](https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5)
-- [ ] [Tim Holman: Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk)
+- [x] [Tim Holman: Jolly JS Journeys](https://www.youtube.com/watch?v=iGPzwotXgfk)
 - [x] [An Animated Intro to RxJS](https://css-tricks.com/animated-intro-rxjs/)
 - [x] [Create animations with the FLIP technique](http://www.creativebloq.com/features/create-animations-with-the-flip-technique)
 - [x] [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
