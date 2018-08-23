@@ -56,6 +56,7 @@
 
 
 ### 📐📏 Design Systems, CSS & Components
+- [x] [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 - [x] [Design Systems & React](https://github-ds.now.sh)
 - [x] [Deep dive CSS: font metrics, line-height and vertical-align](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 - [x] [Introducing the Single Element Pattern](https://medium.freecodecamp.org/introducing-the-single-element-pattern-dfbd2c295c5d)
