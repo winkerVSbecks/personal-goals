@@ -56,6 +56,7 @@
 
 
 ### 📐📏 Design Systems, CSS & Components
+- [x] [Design system resources](https://medium.com/zendesk-creative-blog/design-system-resources-b9119ddf9790)
 - [x] [Measuring Design System Success](https://medium.com/eightshapes-llc/measuring-design-system-success-d0513a93dd96)
 - [x] [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 - [x] [Design Systems & React](https://github-ds.now.sh)
