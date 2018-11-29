@@ -55,30 +55,35 @@
 
 
 
-### 📐📏 Design Systems, CSS & Components
-- [x] [Read color hex codes – David DeSandro](https://www.youtube.com/watch?v=eqZqx6lRPe0)
+### 📐✏️ Design Systems
 - [x] [Design system resources](https://medium.com/zendesk-creative-blog/design-system-resources-b9119ddf9790)
 - [x] [Measuring Design System Success](https://medium.com/eightshapes-llc/measuring-design-system-success-d0513a93dd96)
 - [x] [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 - [x] [Design Systems & React](https://github-ds.now.sh)
-- [x] [Deep dive CSS: font metrics, line-height and vertical-align](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
 - [x] [Introducing the Single Element Pattern](https://medium.freecodecamp.org/introducing-the-single-element-pattern-dfbd2c295c5d)
-- [x] [Functional CSS at Scale](http://assets.eli.wtf/talks/functional-css-scotland-2018/#/)
 - [x] [A Five-Minute Guide to Better Typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
-- [x] [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/)
 - [x] [Component-Based Design](https://medium.com/@_alanbsmith/component-based-design-168811e0c4ab)
+- [x] [Chris Biscardi's Twitter thread](https://twitter.com/chrisbiscardi/status/976363118656831489)
+- [x] [We Need To Talk About Our Frontend Workflow — Siddharth Kshetrapal](https://www.youtube.com/watch?v=bLgZwFRYTJ4)
+- [x] [Subatomic Design Systems](https://daneden.me/2018/01/05/subatomic-design-systems)
+- [x] [Introducing Design Systems Into Chaos](https://www.rethinkhq.com/videos/introducing-design-systems-into-chaos-diana-mounter-github)
+- [x] [Mathematical Web Typography](http://jxnblk.com/writing/posts/mathematical-web-typography)
+
+
+
+### 🎛 UI Development
+- [x] [Read color hex codes – David DeSandro](https://www.youtube.com/watch?v=eqZqx6lRPe0)
+- [x] [Deep dive CSS: font metrics, line-height and vertical-align](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align)
+- [x] [Spacings and CSS Custom properties](https://voices.basedesign.com/spacings-and-css-custom-properties-bdae00eaf3f1)
+- [x] [Functional CSS at Scale](http://assets.eli.wtf/talks/functional-css-scotland-2018/#/)
+- [x] [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/)
 - [x] [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
 - [x] [A Unified Styling Language](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)
 - [x] [Vanilla Pattern](https://coggle.it/diagram/V0hkiP976OIbGpy8/t/vanilla-pattern)
 - [x] [Component Styling API](http://mrmrs.github.io/writing/2018/06/18/component-styling-api/)
 - [x] [In Defense of Utility-First CSS](https://frontstuff.io/in-defense-of-utility-first-css#it-bloats-the-html)
-- [x] [Chris Biscardi's Twitter thread](https://twitter.com/chrisbiscardi/status/976363118656831489)
-- [x] [We Need To Talk About Our Frontend Workflow — Siddharth Kshetrapal](https://www.youtube.com/watch?v=bLgZwFRYTJ4)
-- [x] [Subatomic Design Systems](https://daneden.me/2018/01/05/subatomic-design-systems)
 - [x] [Making SVG icon libraries for React apps](http://nicolasgallagher.com/making-svg-icon-libraries-for-react-apps/)
-- [x] [Introducing Design Systems Into Chaos](https://www.rethinkhq.com/videos/introducing-design-systems-into-chaos-diana-mounter-github)
 - [x] [UI development as a first-class citizen](http://mrmrs.github.io/writing/2016/04/21/developing-ui/)
-- [x] [Mathematical Web Typography](http://jxnblk.com/writing/posts/mathematical-web-typography)
 - [x] [Functional CSS Protips](https://github.com/chibicode/react-functional-css-protips)
 - [x] [Functional Programming, CSS, and your sanity](http://www.jon.gold/2015/07/functional-css)
 - [x] [Andrew Clark - Recomposing your React application](https://www.youtube.com/watch?v=zD_judE-bXk)
