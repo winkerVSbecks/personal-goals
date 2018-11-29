@@ -55,7 +55,7 @@
 
 
 
-## 🎨 Design
+### 🎨 Design
 - [x] [Design for Developers](https://frontendmasters.com/workshops/design-for-devs)
 - [x] [How I Work With Colour](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed)
 - [x] [A Five-Minute Guide to Better Typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
