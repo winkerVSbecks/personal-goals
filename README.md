@@ -55,14 +55,19 @@
 
 
 
+## 🎨 Design
+- [x] [Design for Developers](https://frontendmasters.com/workshops/design-for-devs)
+- [x] [How I Work With Colour](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed)
+- [x] [A Five-Minute Guide to Better Typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
+- [x] [Butterick's Practical Typography](https://practicaltypography.com)
+
+
 ### 📐✏️ Design Systems
 - [x] [Design system resources](https://medium.com/zendesk-creative-blog/design-system-resources-b9119ddf9790)
 - [x] [Measuring Design System Success](https://medium.com/eightshapes-llc/measuring-design-system-success-d0513a93dd96)
 - [x] [Space in Design Systems](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 - [x] [Design Systems & React](https://github-ds.now.sh)
 - [x] [Introducing the Single Element Pattern](https://medium.freecodecamp.org/introducing-the-single-element-pattern-dfbd2c295c5d)
-- [x] [A Five-Minute Guide to Better Typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
-- [x] [Butterick's Practical Typography](https://practicaltypography.com)
 - [x] [Component-Based Design](https://medium.com/@_alanbsmith/component-based-design-168811e0c4ab)
 - [x] [Chris Biscardi's Twitter thread](https://twitter.com/chrisbiscardi/status/976363118656831489)
 - [x] [We Need To Talk About Our Frontend Workflow — Siddharth Kshetrapal](https://www.youtube.com/watch?v=bLgZwFRYTJ4)
