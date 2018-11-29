@@ -62,6 +62,7 @@
 - [x] [Design Systems & React](https://github-ds.now.sh)
 - [x] [Introducing the Single Element Pattern](https://medium.freecodecamp.org/introducing-the-single-element-pattern-dfbd2c295c5d)
 - [x] [A Five-Minute Guide to Better Typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
+- [x] [Butterick's Practical Typography](https://practicaltypography.com)
 - [x] [Component-Based Design](https://medium.com/@_alanbsmith/component-based-design-168811e0c4ab)
 - [x] [Chris Biscardi's Twitter thread](https://twitter.com/chrisbiscardi/status/976363118656831489)
 - [x] [We Need To Talk About Our Frontend Workflow — Siddharth Kshetrapal](https://www.youtube.com/watch?v=bLgZwFRYTJ4)
