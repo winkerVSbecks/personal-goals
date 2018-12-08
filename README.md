@@ -101,6 +101,7 @@
 - [x] [Components](http://jxnblk.com/writing/posts/components/)
 - [x] [CSS and Scalability](http://mrmrs.github.io/writing/2016/03/24/scalable-css)
 - [x] [Pure UI](https://rauchg.com/2015/pure-ui#)
+- [x] [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)
 
 
 
