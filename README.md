@@ -106,6 +106,7 @@
 
 
 ### 🖥️ Browser
+- [x] [The Algorithms of CSS: Sources](https://notlaura.com/algorithms-of-css-sources)
 - [x] [How Https Works](https://howhttps.works)
 - [x] [Server Farm to Table](http://jenna.is/slides/server-farm-to-table-annotated.pdf)
 - [x] [Scrolling on the web: A primer](https://blogs.windows.com/msedgedev/2017/03/08/scrolling-on-the-web/)
