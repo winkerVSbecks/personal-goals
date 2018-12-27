@@ -34,6 +34,7 @@
 
 
 ### 🤓 Functional Programming
+- [x] [Functional Programming: Alternatives to the If](https://hackernoon.com/functional-programming-alternatives-to-the-if-functional-javascript-8804905db43e)
 - [x] [μ — blog of Michael Hurley](http://buzzdecafe.github.io/)
 - [x] [evilsoft/crocks](https://github.com/evilsoft/crocks)
 - [x] [Safer JavaScript with the Maybe type](https://egghead.io/lessons/javascript-course-introduction-safer-javascript-with-the-maybe-type)
