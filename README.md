@@ -65,6 +65,7 @@
 
 
 ### 📐✏️ Design Systems
+- [x] [Build Better Component Libraries with Styled System](https://medium.com/styled-components/build-better-component-libraries-with-styled-system-4951653d54ee)
 - [x] [An introduction to systems thinking](http://www.academia.edu/3317732/Systems_one_An_introduction_to_systems_thinking)
 - [x] [Design system resources](https://medium.com/zendesk-creative-blog/design-system-resources-b9119ddf9790)
 - [x] [Measuring Design System Success](https://medium.com/eightshapes-llc/measuring-design-system-success-d0513a93dd96)
