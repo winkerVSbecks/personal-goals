@@ -83,6 +83,7 @@
 
 
 ### 🎛 UI Development
+- [ ] [Visual Testing Handbook](https://www.chromaticqa.com/book/visual-testing-handbook)
 - [x] [How To Architect A Complex Web Table](https://www.smashingmagazine.com/2019/02/complex-web-tables/)
 - [x] [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1)
 - [x] [Read color hex codes – David DeSandro](https://www.youtube.com/watch?v=eqZqx6lRPe0)
