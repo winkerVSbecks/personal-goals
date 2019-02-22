@@ -140,6 +140,7 @@
 
 
 ### ⚡ Performance
+- [x] [Progressive React](https://houssein.me/progressive-react)
 - [x] [Performance Techniques in 2017](https://github.com/manucorporat/perf-apis-2/blob/master/performance-techniques.pdf)
 - [ ] [Designing for Mobile Performance (Brain Food)](https://www.awwwards.com/brainfood-mobile-performance-vol3.pdf)
 - [ ] [Fast By Default: Modern Loading Best Practices](https://www.youtube.com/watch?v=_srJ7eHS3IM)
