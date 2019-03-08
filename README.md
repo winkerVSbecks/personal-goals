@@ -66,6 +66,7 @@
 
 
 ### 📐✏️ Design Systems
+- [x] [Styles and Naming](https://www.christopherbiscardi.com/post/styles-and-naming)
 - [x] [Measuring the Impact of a Design System](https://medium.com/@didoo/measuring-the-impact-of-a-design-system-7f925af090f7)
 - [x] [Programming Design Systems (graduate course)](http://printingcode.runemadsen.com)
 - [x] [Build Better Component Libraries with Styled System](https://medium.com/styled-components/build-better-component-libraries-with-styled-system-4951653d54ee)
