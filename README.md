@@ -19,6 +19,7 @@
 
 
 ### 👨🏽‍💻 Engineering Management
+- [x] [Kano Model — Ways to use it and NOT use it](https://medium.com/design-ibm/kano-model-ways-to-use-it-and-not-use-it-1d205a9cf808)
 - [x] [DesignOps at Airbnb](https://airbnb.design/designops-airbnb/)
 - [x] [Make the Right Thing the Easy Thing](https://jlengstorf.github.io/presentations/make-the-right-thing-the-easy-thing)
 - [x] [Rent the Runway Leadership Ladder Spreadsheet](https://docs.google.com/spreadsheets/d/1k4sO6pyCl_YYnf0PAXSBcX776rNcTjSOqDxZ5SDty-4/edit#gid=0)
