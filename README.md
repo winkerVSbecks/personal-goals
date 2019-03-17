@@ -15,6 +15,7 @@
 - [x] [Should engineering managers write code? Wrong question.](https://building.coursera.org/blog/2016/12/01/should-engineering-managers-write-code-wrong-question)
 - [x] [The Web's Grain](https://frankchimero.com/writing/the-webs-grain/)
 - [x] [Material Honesty on the Web](https://alistapart.com/article/material-honesty-on-the-web)
+- [x] [What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
 
 
@@ -87,6 +88,8 @@
 
 
 ### 🎛 UI Development
+- [x] [The Media Object Saves Hundreds of Lines of Code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)
+- [x] [Visual Semantics in HTML and CSS](http://www.stubbornella.org/content/2010/06/12/visual-semantics-in-html-and-css)
 - [ ] [Visual Testing Handbook](https://www.chromaticqa.com/book/visual-testing-handbook)
 - [x] [How To Architect A Complex Web Table](https://www.smashingmagazine.com/2019/02/complex-web-tables/)
 - [x] [Building the Google Photos Web UI](https://medium.com/google-design/google-photos-45b714dfbed1)
