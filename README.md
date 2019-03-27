@@ -20,6 +20,7 @@
 
 
 ### 👨🏽‍💻 Engineering Management
+- [x] [The 4 ‘Attachment Styles,’ and How They Sabotage Your Work-Life Balance](https://www.nytimes.com/2018/12/19/smarter-living/attachment-styles-work-life-balance.html)
 - [x] [Kano Model — Ways to use it and NOT use it](https://medium.com/design-ibm/kano-model-ways-to-use-it-and-not-use-it-1d205a9cf808)
 - [x] [DesignOps at Airbnb](https://airbnb.design/designops-airbnb/)
 - [x] [Make the Right Thing the Easy Thing](https://jlengstorf.github.io/presentations/make-the-right-thing-the-easy-thing)
