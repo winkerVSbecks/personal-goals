@@ -20,6 +20,7 @@
 
 
 ### 👨🏽‍💻 Engineering Management
+- [x] [How to Deliver Constructive Feedback in Difficult Situations](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf)
 - [x] [AHA Programming 💡](https://kentcdodds.com/blog/aha-programming)
 - [x] [The Wrong Abstraction](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 - [x] [The 4 ‘Attachment Styles,’ and How They Sabotage Your Work-Life Balance](https://www.nytimes.com/2018/12/19/smarter-living/attachment-styles-work-life-balance.html)
