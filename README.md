@@ -64,6 +64,7 @@
 
 
 ### 🎨 Design
+- [x] [What design tools get wrong](https://kilianvalkhof.com/2019/design/what-design-tools-get-wrong/)
 - [x] [Here is how UX Design Integrates with Agile and Scrum](https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24)
 - [x] [Design for Developers](https://frontendmasters.com/workshops/design-for-devs)
 - [x] [How I Work With Colour](https://medium.com/@JustinMezzell/how-i-work-with-color-8439c98ae5ed)
