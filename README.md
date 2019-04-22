@@ -3,6 +3,7 @@
 
 
 ### 📚 Theory
+- [x] [Giving Generative Art Its Due](https://www.artnome.com/news/2019/4/17/giving-generative-art-its-due)
 - [x] [Automation + Control: Progressive Disclosure of Complexity](https://lengstorf.com/progressive-disclosure-of-complexity/)
 - [x] [Minipack — module bundler walkthrough](https://github.com/ronami/minipack/blob/master/src/minipack.js)
 - [ ] [Boundaries A talk by Gary Bernhardt from SCNA 2012](https://www.destroyallsoftware.com/talks/boundaries)
