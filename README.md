@@ -139,6 +139,7 @@
 
 
 ### 💽 Creative Coding
+- [x] [cacheflowe/creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes)
 - [x] [FBO particles](http://barradeau.com/blog/?p=621)
 - [x] [Steven Wittens - Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8)
 - [x] [Tim Holman - Generative Art Speedrun](https://www.youtube.com/watch?v=4Se0_w0ISYk&t=758s)
