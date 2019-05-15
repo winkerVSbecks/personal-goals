@@ -139,6 +139,7 @@
 
 
 ### 💽 Creative Coding
+- [x] [Giving Generative Art Its Due](https://www.artnome.com/news/2019/4/17/giving-generative-art-its-due)
 - [x] [cacheflowe/creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes)
 - [x] [FBO particles](http://barradeau.com/blog/?p=621)
 - [x] [Steven Wittens - Making WebGL Dance](https://www.youtube.com/watch?v=GNO_CYUjMK8)
