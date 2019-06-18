@@ -95,6 +95,7 @@
 
 
 ### 🎛 UI Development
+- [x] [Drop caps & design systems](https://product.voxmedia.com/2019/6/17/18524029/the-ballad-of-drop-caps-and-design-systems)
 - [x] [Revisiting the rendering tier](https://www.theguardian.com/info/2019/apr/04/revisiting-the-rendering-tier)
 - [x] [The Media Object Saves Hundreds of Lines of Code](http://www.stubbornella.org/content/2010/06/25/the-media-object-saves-hundreds-of-lines-of-code/)
 - [x] [Visual Semantics in HTML and CSS](http://www.stubbornella.org/content/2010/06/12/visual-semantics-in-html-and-css)
