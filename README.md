@@ -65,6 +65,7 @@
 
 
 ### 🎨 Design
+- [x] [When great product teams ship broken UX: 4 steps to mind the gap](https://uxdesign.cc/when-great-product-teams-ship-broken-ux-4-steps-to-mind-the-gap-bfdf6f150f8b)
 - [x] [Variable Brand Voice®](https://medium.com/plaudesign/variable-brand-voice-c6cadb97ffe0)
 - [x] [What design tools get wrong](https://kilianvalkhof.com/2019/design/what-design-tools-get-wrong/)
 - [x] [Here is how UX Design Integrates with Agile and Scrum](https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24)
