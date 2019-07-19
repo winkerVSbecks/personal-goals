@@ -132,6 +132,7 @@
 
 
 ### 🖥️ Browser
+- [x] [CSS. under the hood](https://drive.google.com/file/d/1ejBIXkDnCzgdLuB94mgcMCiy5rtSC4RQ/view)
 - [x] [The Algorithms of CSS: Sources](https://notlaura.com/algorithms-of-css-sources)
 - [x] [How Https Works](https://howhttps.works)
 - [x] [Server Farm to Table](http://jenna.is/slides/server-farm-to-table-annotated.pdf)
