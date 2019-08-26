@@ -65,6 +65,7 @@
 
 
 ### 🎨 Design
+- [x] [The business value of design](https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design)
 - [x] [When great product teams ship broken UX: 4 steps to mind the gap](https://uxdesign.cc/when-great-product-teams-ship-broken-ux-4-steps-to-mind-the-gap-bfdf6f150f8b)
 - [x] [Variable Brand Voice®](https://medium.com/plaudesign/variable-brand-voice-c6cadb97ffe0)
 - [x] [What design tools get wrong](https://kilianvalkhof.com/2019/design/what-design-tools-get-wrong/)
