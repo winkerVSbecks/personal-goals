@@ -21,6 +21,7 @@
 
 
 ### 👨🏽‍💻 Engineering Management
+- [x] [Google Engineering Practices Documentation](https://github.com/google/eng-practices)
 - [x] [How to Deliver Constructive Feedback in Difficult Situations](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf)
 - [x] [AHA Programming 💡](https://kentcdodds.com/blog/aha-programming)
 - [x] [The Wrong Abstraction](https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
