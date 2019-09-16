@@ -80,6 +80,7 @@
 
 
 ### 📐✏️ Design Systems
+- [x] [superfriendlydesign.systems/articles](https://superfriendlydesign.systems/articles/)
 - [x] [Sustainable Design Systems](https://medium.com/@_alanbsmith/sustainable-design-systems-52edce0b62a9)
 - [x] [Styles and Naming](https://www.christopherbiscardi.com/post/styles-and-naming)
 - [x] [Measuring the Impact of a Design System](https://medium.com/@didoo/measuring-the-impact-of-a-design-system-7f925af090f7)
