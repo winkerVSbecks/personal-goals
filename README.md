@@ -21,6 +21,7 @@
 
 
 ### 👨🏽‍💻 Engineering Management
+- [x] [How to Do Strategic Planning Like a Futurist](https://hbr.org/2019/07/how-to-do-strategic-planning-like-a-futurist)
 - [x] [Google Engineering Practices Documentation](https://github.com/google/eng-practices)
 - [x] [How to Deliver Constructive Feedback in Difficult Situations](https://medium.dave-bailey.com/the-essential-guide-to-difficult-conversations-41f736e63ccf)
 - [x] [AHA Programming 💡](https://kentcdodds.com/blog/aha-programming)
