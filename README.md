@@ -67,6 +67,7 @@
 
 
 ### 🎨 Design
+- [x] [Visual Design and the MVP](https://fourpointzero.io/visual-design-and-the-mvp-6f7d2bec8c46)
 - [x] [The Total Economic Impact™ Of IBM’s Design Thinking Practice](https://www.ibm.com/design/thinking/static/media/Enterprise-Design-Thinking-Report.8ab1e9e1.pdf)
 - [x] [Design Maturity Model](https://www.invisionapp.com/design-better/design-maturity-model)
 - [x] [The business value of design](https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design)
