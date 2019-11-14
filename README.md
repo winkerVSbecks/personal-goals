@@ -107,6 +107,7 @@
 
 
 ### 🎛 UI Development
+- [x] [UI Case study: state styles of card component with accessibility in mind](https://blog.prototypr.io/ui-case-study-state-styles-of-card-component-with-accessibility-in-mind-2f30137c6108)
 - [x] [Frontend design, react, and a bridge over the great divide](http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/)
 - [x] [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/)
 - [x] [Drop caps & design systems](https://product.voxmedia.com/2019/6/17/18524029/the-ballad-of-drop-caps-and-design-systems)
