@@ -107,6 +107,7 @@
 
 
 ### 🎛 UI Development
+- [x] [How Concurrent React changes the game for data-heavy UI 🕰️](https://medium.com/@winwardo/how-concurrent-react-changes-the-game-for-data-heavy-ui-a0f432655625)
 - [x] [UI Case study: state styles of card component with accessibility in mind](https://blog.prototypr.io/ui-case-study-state-styles-of-card-component-with-accessibility-in-mind-2f30137c6108)
 - [x] [Frontend design, react, and a bridge over the great divide](http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/)
 - [x] [The Elements of UI Engineering](https://overreacted.io/the-elements-of-ui-engineering/)
