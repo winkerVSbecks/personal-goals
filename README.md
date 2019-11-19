@@ -67,6 +67,7 @@
 
 
 ### 🎨 Design
+- [x] [A Quick Guide to Designing for Augmented Reality on Mobile](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-1-c8ecaaf303d5)
 - [x] [Visual Design and the MVP](https://fourpointzero.io/visual-design-and-the-mvp-6f7d2bec8c46)
 - [x] [The Total Economic Impact™ Of IBM’s Design Thinking Practice](https://www.ibm.com/design/thinking/static/media/Enterprise-Design-Thinking-Report.8ab1e9e1.pdf)
 - [x] [Design Maturity Model](https://www.invisionapp.com/design-better/design-maturity-model)
