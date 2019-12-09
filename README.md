@@ -84,6 +84,7 @@
 
 
 ### 📐✏️ Design Systems
+- [x] [The spectrum of maturity for design systems](https://www.designsystems.com/the-spectrum-of-maturity-for-design-systems/)
 - [x] [Design Systems and Agility (Part 1 of 2)](https://medium.com/interactive-mind/design-systems-and-agility-part-1-of-2-b96c188acfca)
 - [x] [2019 Design Systems Survey](https://designsystemssurvey.seesparkbox.com/2019/)
 - [x] [Design Tokens beyond colors, typography, and spacing](https://badootech.badoo.com/design-tokens-beyond-colors-typography-and-spacing-ad7c98f4f228)
