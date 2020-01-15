@@ -21,6 +21,7 @@
 
 
 ### 👨🏽‍💻 Engineering Management
+- [x] [60 effective performance review phrases](https://www.cultureamp.com/blog/performance-review-phrases/)
 - [x] [100 Useful Performance Review Phrases](https://www.tinypulse.com/blog/sk-useful-phrases-performance-reviews)
 - [x] [Ask an expert: How do you interview an engineer?](https://increment.com/teams/ask-an-expert-how-do-you-interview-an-engineer/)
 - [x] [How to Do Strategic Planning Like a Futurist](https://hbr.org/2019/07/how-to-do-strategic-planning-like-a-futurist)
