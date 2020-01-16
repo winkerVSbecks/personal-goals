@@ -73,7 +73,7 @@
 - [x] [A Quick Guide to Designing for Augmented Reality on Mobile](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-1-c8ecaaf303d5)
 - [x] [Visual Design and the MVP](https://fourpointzero.io/visual-design-and-the-mvp-6f7d2bec8c46)
 - [x] [The Total Economic Impact™ Of IBM’s Design Thinking Practice](https://www.ibm.com/design/thinking/static/media/Enterprise-Design-Thinking-Report.8ab1e9e1.pdf)
-- [x] [Design Maturity Model](https://www.invisionapp.com/design-better/design-maturity-model)
+- [x] [Design Maturity Model](https://www.invisionapp.com/design-better/design-maturity-model) | [Full Report](https://s3.amazonaws.com/www-assets.invisionapp.com/The-New-Design-Frontier-from-InVision.pdf)
 - [x] [The business value of design](https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/the-business-value-of-design)
 - [x] [When great product teams ship broken UX: 4 steps to mind the gap](https://uxdesign.cc/when-great-product-teams-ship-broken-ux-4-steps-to-mind-the-gap-bfdf6f150f8b)
 - [x] [Variable Brand Voice®](https://medium.com/plaudesign/variable-brand-voice-c6cadb97ffe0)
