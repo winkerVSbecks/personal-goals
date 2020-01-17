@@ -86,6 +86,7 @@
 
 
 ### 📐✏️ Design Systems
+- [x] [Design System Checklist](https://designsystemchecklist.com/)
 - [x] [The UI Prep Syllabus on Design Systems](https://www.uiprep.com/blog/the-ui-prep-syllabus-on-design-systems)
 - [x] [Creating a new language for design and engineering](https://www.abstract.com/blog/design-and-engineering/)
 - [x] [The spectrum of maturity for design systems](https://www.designsystems.com/the-spectrum-of-maturity-for-design-systems/)
