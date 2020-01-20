@@ -3,6 +3,7 @@
 
 
 ### 📚 Theory
+- [x] [Spin The Business Agility Flywheel To Transform Your Company](https://barryoreilly.com/business-agility-flywheel/)
 - [x] [Giving Generative Art Its Due](https://www.artnome.com/news/2019/4/17/giving-generative-art-its-due)
 - [x] [Automation + Control: Progressive Disclosure of Complexity](https://lengstorf.com/progressive-disclosure-of-complexity/)
 - [x] [Minipack — module bundler walkthrough](https://github.com/ronami/minipack/blob/master/src/minipack.js)
