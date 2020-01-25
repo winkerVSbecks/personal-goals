@@ -87,6 +87,7 @@
 
 
 ### 📐✏️ Design Systems
+- [x] [Product thinking is a lifeline for struggling design systems](https://matthewstrom.com/writing/product-thinking-for-design-systems/)
 - [x] [Design APIs: the evolution of design systems](https://matthewstrom.com/writing/design-apis)
 - [x] [Design System Checklist](https://designsystemchecklist.com/)
 - [x] [The UI Prep Syllabus on Design Systems](https://www.uiprep.com/blog/the-ui-prep-syllabus-on-design-systems)
