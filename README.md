@@ -22,6 +22,7 @@
 
 
 ### 👨🏽‍💻 Engineering Management
+- [x] [‘Tech debt’: why badly written code can haunt companies for decades](https://www.ft.com/content/d6822eb0-0fe0-11ea-a7e6-62bf4f9e548a)
 - [x] [60 effective performance review phrases](https://www.cultureamp.com/blog/performance-review-phrases/)
 - [x] [100 Useful Performance Review Phrases](https://www.tinypulse.com/blog/sk-useful-phrases-performance-reviews)
 - [x] [Ask an expert: How do you interview an engineer?](https://increment.com/teams/ask-an-expert-how-do-you-interview-an-engineer/)
