@@ -21,7 +21,8 @@
 
 
 
-### 👨🏽‍💻 Engineering Management
+### 👨🏽‍💻 Leadership/Management
+- [x] [Getting started as a newly appointed design leader](https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/business-value-of-design/interactives/getting-started-as-a-newly-appointed-design-leader)
 - [x] [‘Tech debt’: why badly written code can haunt companies for decades](https://www.ft.com/content/d6822eb0-0fe0-11ea-a7e6-62bf4f9e548a)
 - [x] [60 effective performance review phrases](https://www.cultureamp.com/blog/performance-review-phrases/)
 - [x] [100 Useful Performance Review Phrases](https://www.tinypulse.com/blog/sk-useful-phrases-performance-reviews)
@@ -72,7 +73,6 @@
 
 
 ### 🎨 Design
-- [x] [Getting started as a newly appointed design leader](https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/business-value-of-design/interactives/getting-started-as-a-newly-appointed-design-leader)
 - [x] [A Quick Guide to Designing for Augmented Reality on Mobile](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-1-c8ecaaf303d5)
 - [x] [Visual Design and the MVP](https://fourpointzero.io/visual-design-and-the-mvp-6f7d2bec8c46)
 - [x] [The Total Economic Impact™ Of IBM’s Design Thinking Practice](https://www.ibm.com/design/thinking/static/media/Enterprise-Design-Thinking-Report.8ab1e9e1.pdf)
