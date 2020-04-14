@@ -22,6 +22,7 @@
 
 
 ### 👨🏽‍💻 Leadership/Management
+- [x] [When debugging, your attitude matters](https://jvns.ca/blog/debugging-attitude-matters)
 - [x] [Getting started as a newly appointed design leader](https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/business-value-of-design/interactives/getting-started-as-a-newly-appointed-design-leader)
 - [x] [‘Tech debt’: why badly written code can haunt companies for decades](https://www.ft.com/content/d6822eb0-0fe0-11ea-a7e6-62bf4f9e548a)
 - [x] [60 effective performance review phrases](https://www.cultureamp.com/blog/performance-review-phrases/)
