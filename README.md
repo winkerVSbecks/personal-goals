@@ -74,6 +74,7 @@
 
 
 ### 🎨 Design
+- [x] [Design Effectiveness 2019](https://clearleft.com/static/Design-Effectiveness-2019.pdf)
 - [x] [Thinking about color](https://blog.cloudflare.com/thinking-about-color/)
 - [x] [A Quick Guide to Designing for Augmented Reality on Mobile](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-1-c8ecaaf303d5)
 - [x] [Visual Design and the MVP](https://fourpointzero.io/visual-design-and-the-mvp-6f7d2bec8c46)
