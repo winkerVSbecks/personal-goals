@@ -178,6 +178,7 @@
 
 
 ### 💽 Creative Coding
+- [x] [How to emulate hand-drawn shapes / Algorithms behind RoughJS](https://shihn.ca/posts/2020/roughjs-algorithms/)
 - [x] [Giving Generative Art Its Due](https://www.artnome.com/news/2019/4/17/giving-generative-art-its-due)
 - [x] [cacheflowe/creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes)
 - [x] [FBO particles](http://barradeau.com/blog/?p=621)
