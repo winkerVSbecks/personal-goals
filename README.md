@@ -3,6 +3,7 @@
 
 
 ### 📚 Theory
+- [x] [How to Draw Invisible Programming Concepts](https://illustrated.dev/drawinginvisibles1)
 - [x] [Why programming is difficult](https://joearms.github.io/published/2014-02-07-why-programming-is-difficult.html)
 - [x] [Spin The Business Agility Flywheel To Transform Your Company](https://barryoreilly.com/business-agility-flywheel/)
 - [x] [Giving Generative Art Its Due](https://www.artnome.com/news/2019/4/17/giving-generative-art-its-due)
