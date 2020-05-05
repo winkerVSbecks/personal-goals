@@ -24,6 +24,7 @@
 
 
 ### 👨🏽‍💻 Leadership/Management
+- [x] [Artist Statement: A User Guide](https://sfpc.io/artiststatement-spring2020/)
 - [x] [When debugging, your attitude matters](https://jvns.ca/blog/debugging-attitude-matters)
 - [x] [Getting started as a newly appointed design leader](https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/business-value-of-design/interactives/getting-started-as-a-newly-appointed-design-leader)
 - [x] [‘Tech debt’: why badly written code can haunt companies for decades](https://www.ft.com/content/d6822eb0-0fe0-11ea-a7e6-62bf4f9e548a)
