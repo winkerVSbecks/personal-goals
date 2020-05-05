@@ -3,6 +3,7 @@
 
 
 ### 📚 Theory
+- [x] [Making Music Creative Strategies for Electronic Music Producers](https://makingmusic.ableton.com/catalog-of-attributes)
 - [x] [How to Draw Invisible Programming Concepts](https://illustrated.dev/drawinginvisibles1)
 - [x] [Why programming is difficult](https://joearms.github.io/published/2014-02-07-why-programming-is-difficult.html)
 - [x] [Spin The Business Agility Flywheel To Transform Your Company](https://barryoreilly.com/business-agility-flywheel/)
