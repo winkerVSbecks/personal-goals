@@ -3,6 +3,7 @@
 
 
 ### 📚 Theory
+- [x] [React is a Potato and Other Visual Metaphors](https://youtu.be/MQGe9zxlRdk)
 - [ ] [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-1.html)
 - [x] [Making Music Creative Strategies for Electronic Music Producers](https://makingmusic.ableton.com/catalog-of-attributes)
 - [x] [How to Draw Invisible Programming Concepts](https://illustrated.dev/drawinginvisibles1)
