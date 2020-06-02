@@ -80,6 +80,8 @@
 
 
 ### 🎨 Design
+- [x] [What is a Creative Technologist?](https://automattic.design/2019/06/21/what-is-a-creative-technologist)
+- [x] [Your UX Team Needs a Design Technologist. Here’s Why.](https://blog.prototypr.io/your-ux-team-needs-a-design-technologist-heres-why-3426be8f78a)
 - [x] [Design Effectiveness 2019](https://clearleft.com/static/Design-Effectiveness-2019.pdf)
 - [x] [Thinking about color](https://blog.cloudflare.com/thinking-about-color/)
 - [x] [A Quick Guide to Designing for Augmented Reality on Mobile](https://medium.com/@goatsandbacon/a-quick-guide-to-designing-for-augmented-reality-on-mobile-part-1-c8ecaaf303d5)
