@@ -135,6 +135,18 @@
 
 
 
+### 🎨 Design for Developers
+- [x] [Refactoring UI](https://refactoringui.com/)
+- [x] [A Five-Minute Guide to Better Typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
+- [x] [Butterick's Practical Typography](https://practicaltypography.com/)
+- [x] [Degreeless Design](https://www.degreeless.design/)
+- [x] [Design Thinking Handbook](https://www.designbetter.co/design-thinking)
+- [x] [Design Resources](https://gist.github.com/alanbsmith/1f19de62fa82e396ea91801de6325d5e)
+- [x] [Design for Developers](https://frontendmasters.com/workshops/design-for-devs/) (use the Rangle Frontend masters account)
+- [x] [Learn UI Design](https://learnui.design/?ref=csstricks)
+
+
+
 ### 🎛 UI Development
 - [x] [How To Implement Material Design Motion with React.js](https://medium.com/dailyjs/how-to-implement-material-design-motion-with-react-js-8bc561c9a94f)
 - [x] [How Concurrent React changes the game for data-heavy UI 🕰️](https://medium.com/@winwardo/how-concurrent-react-changes-the-game-for-data-heavy-ui-a0f432655625)
