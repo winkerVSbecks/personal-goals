@@ -101,6 +101,7 @@
 
 
 ### 📐✏️ Design Systems
+- [x] [Understanding Component Hierarchy](https://medium.com/@_alanbsmith/understanding-component-hierarchy-d5ce153acab3)
 - [x] [The design systems we swim in](https://ethanmarcotte.com/wrote/the-design-systems-we-swim-in/)
 - [x] [Design Systems Will Change UX/UI Jobs](https://medium.com/delta-cx/design-systems-will-change-ux-ui-jobs-e29f1d978553)
 - [x] [Product thinking is a lifeline for struggling design systems](https://matthewstrom.com/writing/product-thinking-for-design-systems/)
