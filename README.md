@@ -58,6 +58,7 @@
 
 
 ### 🤓 Functional Programming
+- [x] [Magical, Mystical Javascript Transducers](https://jrsinclair.com/articles/2019/magical-mystical-js-transducers/)
 - [x] [Transducers: Efficient Data Processing Pipelines in JavaScript](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
 - [x] [Functional Programming: Alternatives to the If](https://hackernoon.com/functional-programming-alternatives-to-the-if-functional-javascript-8804905db43e)
 - [x] [μ — blog of Michael Hurley](http://buzzdecafe.github.io/)
