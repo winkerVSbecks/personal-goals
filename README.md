@@ -29,6 +29,7 @@
 
 
 ### 👨🏽‍💻 Leadership/Management
+- [x] [The Four Types of Work 🍀](https://refactoring.substack.com/p/the-four-types-of-work)
 - [x] [Artist Statement: A User Guide](https://sfpc.io/artiststatement-spring2020/)
 - [x] [When debugging, your attitude matters](https://jvns.ca/blog/debugging-attitude-matters)
 - [x] [Getting started as a newly appointed design leader](https://www.mckinsey.com/business-functions/mckinsey-design/our-insights/business-value-of-design/interactives/getting-started-as-a-newly-appointed-design-leader)
