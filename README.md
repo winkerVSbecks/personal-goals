@@ -153,6 +153,7 @@
 
 
 ### 🎛 UI Development
+- [x] [Layout projection: A method for animating browser layouts at 60fps](https://mattperry.is/writing-code/layout-projection-animate-browser-layout-60fps)
 - [x] [How To Implement Material Design Motion with React.js](https://medium.com/dailyjs/how-to-implement-material-design-motion-with-react-js-8bc561c9a94f)
 - [x] [How Concurrent React changes the game for data-heavy UI 🕰️](https://medium.com/@winwardo/how-concurrent-react-changes-the-game-for-data-heavy-ui-a0f432655625)
 - [x] [UI Case study: state styles of card component with accessibility in mind](https://blog.prototypr.io/ui-case-study-state-styles-of-card-component-with-accessibility-in-mind-2f30137c6108)
