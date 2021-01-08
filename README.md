@@ -29,6 +29,7 @@
 
 
 ### 👨🏽‍💻 Leadership/Management
+- [x] [Developer Experience at Netlify](https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/)
 - [x] [The Four Types of Work 🍀](https://refactoring.substack.com/p/the-four-types-of-work)
 - [x] [Artist Statement: A User Guide](https://sfpc.io/artiststatement-spring2020/)
 - [x] [When debugging, your attitude matters](https://jvns.ca/blog/debugging-attitude-matters)
