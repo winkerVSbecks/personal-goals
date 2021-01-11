@@ -29,6 +29,7 @@
 
 
 ### 👨🏽‍💻 Leadership/Management
+- [x] [What Silicon Valley "Gets" about Software Engineers that Traditional Companies Do Not](https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/)
 - [x] [Developer Experience at Netlify](https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/)
 - [x] [The Four Types of Work 🍀](https://refactoring.substack.com/p/the-four-types-of-work)
 - [x] [Artist Statement: A User Guide](https://sfpc.io/artiststatement-spring2020/)
