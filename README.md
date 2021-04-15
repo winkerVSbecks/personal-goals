@@ -113,6 +113,7 @@
 - [x] [Design Systems Will Change UX/UI Jobs](https://medium.com/delta-cx/design-systems-will-change-ux-ui-jobs-e29f1d978553)
 - [x] [Product thinking is a lifeline for struggling design systems](https://matthewstrom.com/writing/product-thinking-for-design-systems/)
 - [x] [Design APIs: the evolution of design systems](https://matthewstrom.com/writing/design-apis)
+- [x] [A design system governance process](https://bradfrost.com/blog/post/a-design-system-governance-process/)
 - [x] [Design System Checklist](https://designsystemchecklist.com/)
 - [x] [The UI Prep Syllabus on Design Systems](https://www.uiprep.com/blog/the-ui-prep-syllabus-on-design-systems)
 - [x] [Creating a new language for design and engineering](https://www.abstract.com/blog/design-and-engineering/)
