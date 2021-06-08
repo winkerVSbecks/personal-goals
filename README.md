@@ -3,6 +3,7 @@
 
 
 ### 📚 Theory
+- [x] [Computers and Creativity](https://www.mollymielke.com/cc)
 - [x] [Web Brutalism, Seamfulness, and Notion](https://www.viget.com/articles/web-brutalism-seamfulness-and-notion)
 - [x] [The Map Is Not the Territory](https://fs.blog/2015/11/map-and-territory)
 - [x] [React is a Potato and Other Visual Metaphors](https://youtu.be/MQGe9zxlRdk)
