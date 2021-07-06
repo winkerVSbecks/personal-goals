@@ -212,6 +212,7 @@
 
 
 ### 💽 Creative Coding
+- [x] [Subscapes (Part 3 – Code)](https://mattdesl.substack.com/p/subscapes-part-3)
 - [x] [How to emulate hand-drawn shapes / Algorithms behind RoughJS](https://shihn.ca/posts/2020/roughjs-algorithms/)
 - [x] [Giving Generative Art Its Due](https://www.artnome.com/news/2019/4/17/giving-generative-art-its-due)
 - [x] [cacheflowe/creative-coding-notes](https://github.com/cacheflowe/creative-coding-notes)
