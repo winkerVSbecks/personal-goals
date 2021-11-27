@@ -217,6 +217,7 @@
 
 
 ### 💽 Creative Coding
+- [x] [How Does It Feel to Make Generative Art?](https://www.amygoodchild.com/blog/how-does-it-feel-to-make-generative-art)
 - [x] [Curves and surfaces](https://ciechanow.ski/curves-and-surfaces/)
 - [x] [Subscapes (Part 3 – Code)](https://mattdesl.substack.com/p/subscapes-part-3)
 - [x] [How to emulate hand-drawn shapes / Algorithms behind RoughJS](https://shihn.ca/posts/2020/roughjs-algorithms/)
