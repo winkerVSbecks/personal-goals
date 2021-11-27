@@ -1,6 +1,11 @@
 # Personal Goals
 
 
+### 🤩 DX 
+- [x] [How we launch at Supabase](https://supabase.com/blog/2021/11/26/supabase-how-we-launch)
+- [x] [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
+
+
 
 ### 📚 Theory
 - [x] [Computers and Creativity](https://www.mollymielke.com/cc)
