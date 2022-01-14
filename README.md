@@ -4,6 +4,9 @@
 ### 🤩 DX 
 - [x] [How we launch at Supabase](https://supabase.com/blog/2021/11/26/supabase-how-we-launch)
 - [x] [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
+- [ ] [The Cold Start Problem: How to Start and Scale Network Effects](https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749)
+- [x] [Importance of Topical Authority: A Semantic SEO Case Study](https://www.oncrawl.com/technical-seo/importance-topical-authority-semantic-seo/)
+- [x] [Welcome to the Golden Age of Developer Advocacy](https://dev.to/stripe/welcome-to-the-golden-age-of-developer-advocacy-51fe)
 
 
 
