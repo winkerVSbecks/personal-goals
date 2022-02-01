@@ -167,6 +167,7 @@
 
 
 ### 🎛 UI Development
+- [x] [Building like it's 1984: A comprehensive guide to creating intuitive context menus](https://height.app/blog/guide-to-build-context-menus)
 - [x] [The CSS Mindset](https://mxb.dev/blog/the-css-mindset/)
 - [x] [Layout projection: A method for animating browser layouts at 60fps](https://mattperry.is/writing-code/layout-projection-animate-browser-layout-60fps)
 - [x] [How To Implement Material Design Motion with React.js](https://medium.com/dailyjs/how-to-implement-material-design-motion-with-react-js-8bc561c9a94f)
