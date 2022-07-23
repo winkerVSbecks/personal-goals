@@ -2,6 +2,7 @@
 
 
 ### 🤩 DX 
+- [x] [Developer marketing guide (by a dev tool startup CMO)](https://www.developermarkepear.com/blog/developer-marketing-guide#best-practices-of-marketing-to-developers)
 - [x] [How we launch at Supabase](https://supabase.com/blog/2021/11/26/supabase-how-we-launch)
 - [x] [Measuring Developer Relations](https://www.swyx.io/measuring-devrel/)
 - [ ] [The Cold Start Problem: How to Start and Scale Network Effects](https://www.amazon.com/Cold-Start-Problem-Andrew-Chen/dp/0062969749)
