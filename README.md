@@ -222,6 +222,7 @@
 
 
 ### 💽 Creative Coding
+- [x] [An Algorithm for Polygon Intersections](https://gorillasun.de/blog/an-algorithm-for-polygon-intersections)
 - [x] [Anhedra](https://www.visualcinnamon.com/collection/anhedra/)
 - [x] [How Does It Feel to Make Generative Art?](https://www.amygoodchild.com/blog/how-does-it-feel-to-make-generative-art)
 - [x] [Curves and surfaces](https://ciechanow.ski/curves-and-surfaces/)
