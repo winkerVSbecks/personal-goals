@@ -100,6 +100,7 @@
 
 
 ### 🎨 Design
+- [x] [Color — My Journey Through the Spectrum](https://elastiq.notion.site/elastiq/Color-My-Journey-Through-the-Spectrum-2cfd8dc540474b1c9ef381b9a3bc0f8e)
 - [x] [What is a Creative Technologist?](https://automattic.design/2019/06/21/what-is-a-creative-technologist)
 - [x] [Your UX Team Needs a Design Technologist. Here’s Why.](https://blog.prototypr.io/your-ux-team-needs-a-design-technologist-heres-why-3426be8f78a)
 - [x] [Design Effectiveness 2019](https://clearleft.com/static/Design-Effectiveness-2019.pdf)
