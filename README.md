@@ -224,6 +224,8 @@
 
 
 ### 💽 Creative Coding
+- [x] [Building Escher's Square Limit in Pixels](http://roy.red/posts/building-eschers-square-limit/)
+- [x] [Infinite Regression: Many Pictures From One Function](http://roy.red/posts/infinite-regression/)
 - [x] [An Algorithm for Polygon Intersections](https://gorillasun.de/blog/an-algorithm-for-polygon-intersections)
 - [x] [Anhedra](https://www.visualcinnamon.com/collection/anhedra/)
 - [x] [How Does It Feel to Make Generative Art?](https://www.amygoodchild.com/blog/how-does-it-feel-to-make-generative-art)
